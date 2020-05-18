@@ -1,7 +1,7 @@
+![Image of Logo](./public/assets/img/streamer-logo.png)
+
 # Streamer
 ![](streamer-profile-screenshot.png)
-
-![Image of Logo](./public/assets/img/streamer-logo.png)
 
 ## Description 
 Streamer is an application that allows users to create an account, 
