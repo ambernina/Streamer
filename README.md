@@ -1,4 +1,5 @@
 # Streamer
+![](streamer-profile-screenshot.png)
 
 ![Image of Logo](./public/assets/img/streamer-logo.png)
 
@@ -17,8 +18,6 @@ most popular on the home page. Their profile shows all of the titles the user ha
 
 This project has been a fun and challenging experience. It showcases just how far we have all come
 in learning these new technologies, and our journey as developers.
-
-![](streamer-profile-screenshot.png)
 
 ## User Story 
 AS A user who watches shows and movies on many different services, 
